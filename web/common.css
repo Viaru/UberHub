@@ -1,0 +1,16 @@
+/*
+ * Include Bootstrap.
+ */
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+/*
+ * Used to center text. E.g., wrap all body in <div id="page-wrap">.
+ */
+body {
+    text-align: center;
+}
+#page-wrap {
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+}
